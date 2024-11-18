@@ -19,7 +19,7 @@ body {
 }
 
 .carousel-image-1 {
-  background: url("/images/image1.jpg");
+  background: url("../images/image1.jpg");
   background-size: cover;
 }
 
