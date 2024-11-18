@@ -1,4 +1,5 @@
 body {
+  /* To hide the scrollbar at the bottom of the page. */
   overflow-x: hidden;
 }
 
@@ -66,7 +67,7 @@ body {
   color: #fff;
 }
 
-/* #page-header {
+#page-header {
   height: 200px;
   background: url("../images/image1.jpg");
   background-position: 0 -360px;
@@ -77,24 +78,24 @@ body {
 }
 
 .about-img {
-  margin-top: -50px;
+  margin-top: -40px;
 }
 
-#faq .card {
+#faq .accordion {
   border: #444;
 }
 
 #faq a {
-  color: #fff;
+  color: #424141;
   text-decoration: none;
 }
 
-#faq .card-body,
-#faq .card-header {
+#faq .accordion-body,
+#faq .accordion-header {
   background: #333;
 }
 
 #main-footer {
   background: #000;
   color: #fff;
-} */
+}
