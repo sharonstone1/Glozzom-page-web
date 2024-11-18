@@ -19,7 +19,7 @@ body {
 }
 
 .carousel-image-1 {
-  background: url("../images/image1.jpg");
+  background: url("/Glozzom_page/images/image1.jpg");
   background-size: cover;
 }
 
@@ -95,7 +95,7 @@ body {
   background: #333;
 }
 
-#main-footer {
+/* #main-footer {
   background: #000;
   color: #fff;
-}
+} */
