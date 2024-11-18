@@ -1,13 +1,11 @@
 # THIS IS A MULTIPLE PAGE WEBSITE
 
-In this project, I created and design multiple page with Bootstrap5.
+In this project, I created and designed multiple pages using Bootstrap 5.
 
-The Project was made to apply the learning bootstrap course from Udemy. It is good after a lesson to practice what we learnt.
+The project served as an application of what I learned in a Bootstrap course from Udemy. It’s beneficial to practice what we've learned after each lesson.
 
-The bootstrap course from Udemy use Bootstrap 4 which a old version but on this project, I used bootstrap 5 which the last version.
+Although the Udemy course uses Bootstrap 4, which is an older version, I utilized Bootstrap 5, the latest version, for this project.
 
-The images, i used for this project were retrieved from https://www.pexels.com/collections/just-nature-zlezwqr/ .
+The images I used for this project were retrieved from https://www.pexels.com/collections/just-nature-zlezwqr/. I also grabbed some images from the Bootstrap 4 Udemy course.
 
-I also grapped some images from the bootstrap 4 udemy course.
-
-It was a Good project, I learnt a lot through this project such as CARD, ACCORDION, COLLAPSE features etc.
+Overall, it was a good project, and I learned a lot, including how to use features such as cards, accordions, and collapsible elements.
