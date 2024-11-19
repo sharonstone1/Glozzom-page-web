@@ -19,24 +19,24 @@ body {
 }
 
 .carousel-image-1 {
-  background: url("../images/image1.jpg");
+  background: url("Glozzom_page/images/image1.jpg");
   background-size: cover;
 }
 
 .carousel-image-2 {
-  background: url("/Glozzom_page/images/image2.jpg");
+  background: url("Glozzom_page/images/image2.jpg");
   background-size: cover;
 }
 
 .carousel-image-3 {
-  background: url("/Glozzom_page/images/image3.jpg");
+  background: url("Glozzom_page/images/image3.jpg");
   background-size: cover;
 }
 
 #home-heading {
   position: relative;
   min-height: 200px;
-  background: url("/Glozzom_page/images/lights.jpg");
+  background: url("Glozzom_page/images/lights.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
@@ -55,7 +55,7 @@ body {
 #video-play {
   position: relative;
   min-height: 200px;
-  background: url("/Glozzom_page/images/media.jpg");
+  background: url("Glozzom_page/images/image1.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: 0 -300px;
